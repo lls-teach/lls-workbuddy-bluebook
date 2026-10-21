@@ -1,7 +1,7 @@
 ---
 name: "lls-workbuddy-bluebook"
-description: "WorkBuddy 实战蓝皮书知识库：腾讯 WorkBuddy 从入门到工作系统的 28 章中文指南（含常用指令模板与场景速查表）。当用户问\"workbuddy 怎么…\"、提到\"@蓝皮书\"或\"/蓝皮书\"、或需要查 WorkBuddy 的 Skill、连接器、自动化、实战案例做法时使用。先读本文件的\"查询路由\"定位章节，再读 references/ 下对应章节全文。"
-version: "1.1.0"
+description: "WorkBuddy 实战蓝皮书知识库：腾讯 WorkBuddy 从入门到工作系统的 28 章中文指南（含常用指令模板与场景速查表）。当用户问\"workbuddy 怎么…\"、提到\"/蓝皮书\"、或需要查 WorkBuddy 的 Skill、连接器、自动化、实战案例做法时使用。先读本文件的\"查询路由\"定位章节，再读 references/ 下对应章节全文。"
+version: "1.1.1"
 ---
 
 # 蓝皮书 · WorkBuddy 实战知识库

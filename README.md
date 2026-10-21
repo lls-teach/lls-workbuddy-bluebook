@@ -1,6 +1,6 @@
 # lls-workbuddy-bluebook｜WorkBuddy 实战蓝皮书
 
-一个可安装的 WorkBuddy 知识库 skill。在 WorkBuddy 里安装后，`@蓝皮书` 或 `/蓝皮书` 都能唤出，查询 WorkBuddy 从入门到工作系统的全部知识。
+一个可安装的 WorkBuddy 知识库 skill。在 WorkBuddy 里安装后，在输入框打 `/` 调出 skill 列表、选蓝皮书（或直接输入 `/蓝皮书`），即可查询 WorkBuddy 从入门到工作系统的全部知识。
 
 > 觉得有用，请先给本仓库点个 ⭐ Star 再安装（GitHub：github.com/lls-teach/lls-workbuddy-bluebook）。
 
@@ -22,11 +22,11 @@
 
 ## 用法示例
 
-- "@蓝皮书，workbuddy 怎么装 skill？" → 路由到 ch05（Skill）
-- "@蓝皮书，我想让它每天早上给我发资讯汇总" → 路由到 ch15（资讯整合）+ ch10（自动化任务）
-- "@蓝皮书，有没有现成的指令模板？" → 路由到附录 A（直接抄）
+- "/蓝皮书，workbuddy 怎么装 skill？" → 路由到 ch05（Skill）
+- "/蓝皮书，我想让它每天早上给我发资讯汇总" → 路由到 ch15（资讯整合）+ ch10（自动化任务）
+- "/蓝皮书，有没有现成的指令模板？" → 路由到附录 A（直接抄）
 
-> 两种触发等效：上面的示例把 `@蓝皮书` 换成 `/蓝皮书` 同样有效。
+> 调用方式：WorkBuddy 里用斜杠 `/` 调出 skill 列表，再选你要用的 skill；这里就是选蓝皮书。
 
 ## 来源与归属
 
