@@ -9,6 +9,11 @@
 - 一键安装：`npx skills add lls-teach/lls-workbuddy-bluebook`
 - 或 `git clone https://github.com/lls-teach/lls-workbuddy-bluebook.git` 后，把整个目录放进对应平台的 skills 目录
 - 或在 SkillHub 中添加本仓库（`lls-teach/lls-workbuddy-bluebook`）
+- 发给你的 AI 助手一句话安装（复制这句发给它就行）：
+
+  ```
+  帮我从 skillhub 里找到这个技能并安装：lls-workbuddy-bluebook
+  ```
 
 ## 内容
 
