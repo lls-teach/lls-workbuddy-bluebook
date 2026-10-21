@@ -34,5 +34,5 @@
 本 skill 由「刘老师（Liu Lao Shi）」（刘洪光，安徽合肥）出品，归属 [lls-teach](https://github.com/lls-teach)，是《WorkBuddy 从零基础到入门》系列课程的配套技能包。
 
 - GitHub 主页：https://github.com/lls-teach —— 刘老师系列课程与技能包都在此，欢迎 star
-- 视频号 / 抖音：搜「刘老师 Liu Lao Shi」
+- 视频号 / 抖音：搜「刘老师讲 AI实战」
 - 微信：lhgsmsw
