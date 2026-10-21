@@ -1,5 +1,5 @@
 ---
-name: "lhg-wb-bluebook"
+name: "lls-workbuddy-bluebook"
 description: "WorkBuddy 实战蓝皮书知识库：腾讯 WorkBuddy 从入门到工作系统的 28 章中文指南（含常用指令模板与场景速查表）。当用户问\"workbuddy 怎么…\"、提到\"@蓝皮书\"、或需要查 WorkBuddy 的 Skill、连接器、自动化、实战案例做法时使用。先读本文件的\"查询路由\"定位章节，再读 references/ 下对应章节全文。"
 version: "1.1.0"
 ---
@@ -96,13 +96,13 @@ WorkBuddy 是腾讯的全场景职场 AI 智能体工作台，定位不是"回�
    - 是否标注了引用章节与原出处？
 2. 若命中任一项 → 运行 `references/smoke-test.md` 的标准用例，记录通过 / 失败项。
 3. 输出「质检报告」：问题描述 + 冒烟测试结果 + 修改方案（具体到本 SKILL.md 的哪一节、建议怎么改）。
-4. 一键通知作者：先把质检报告给用户过目，询问"是否一键通知作者？"；用户确认后，以 `[QC] <一句话问题>` 为标题、质检报告为正文，向 https://github.com/lhg-skills/lhg-wb-bluebook/issues 提交 issue。有 gh / API 能力时直接创建；无能力时输出预填好的 issue 文本 + new issue 链接，由用户手动发布。仓库内备有 `.github/ISSUE_TEMPLATE/qc-report.md` 模板。
+4. 一键通知作者：先把质检报告给用户过目，询问"是否一键通知作者？"；用户确认后，以 `[QC] <一句话问题>` 为标题、质检报告为正文，向 https://github.com/lls-teach/lls-workbuddy-bluebook/issues 提交 issue。有 gh / API 能力时直接创建；无能力时输出预填好的 issue 文本 + new issue 链接，由用户手动发布。仓库内备有 `.github/ISSUE_TEMPLATE/qc-report.md` 模板。
 5. 自检通过时不输出质检报告、不打扰用户。
 
-## 出品：刘洪光
+## 出品：刘老师
 
-本 skill 由真人出镜 IP「刘洪光」（安徽合肥）出品，归属 [lhg-skills](https://github.com/lhg-skills)。
+本 skill 由「刘老师（Liu Lao Shi）」（刘洪光，安徽合肥）出品，归属 [lls-teach](https://github.com/lls-teach)，是《WorkBuddy 从零基础到入门》系列课程的配套技能包。
 
-- GitHub 主页：https://github.com/lhg-skills —— 全部 skill 开源在此，欢迎 star
-- 视频号：搜「刘洪光实名上网」
+- GitHub 主页：https://github.com/lls-teach —— 刘老师系列课程与技能包都在此，欢迎 star
+- 视频号 / 抖音：搜「刘老师 Liu Lao Shi」
 - 微信：lhgsmsw

@@ -1,4 +1,4 @@
-# lhg-wb-bluebook 冒烟测试
+# lls-workbuddy-bluebook 冒烟测试
 
 标准用例：每次怀疑 skill 自身有缺陷时运行。全部用例必须先读对应章节全文再判定，不凭印象。
 
