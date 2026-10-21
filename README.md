@@ -1,5 +1,7 @@
 # lls-workbuddy-bluebook｜WorkBuddy 实战蓝皮书
 
+![WorkBuddy 实战蓝皮书：提问后自动路由到对应章节给出做法](assets/hero.png)
+
 一个可安装的 WorkBuddy 知识库 skill。在 WorkBuddy 里安装后，在输入框打 `/` 调出 skill 列表、选蓝皮书（或直接输入 `/蓝皮书`），即可查询 WorkBuddy 从入门到工作系统的全部知识。
 
 > 觉得有用，请先给本仓库点个 ⭐ Star 再安装（GitHub：github.com/lls-teach/lls-workbuddy-bluebook）。
