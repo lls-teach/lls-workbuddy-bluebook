@@ -14,7 +14,7 @@
 - 发给你的 AI 助手一句话安装（复制这句发给它就行）：
 
   ```
-  帮我从 skillhub 里找到这个技能并安装：lls-workbuddy-bluebook
+  帮我从 skillhub 里找到这个技能并安装: lls-workbuddy-bluebook
   ```
 
 ## 内容
