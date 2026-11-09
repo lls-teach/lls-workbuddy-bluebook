@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 460" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">蓝皮书 — WorkBuddy 实战蓝皮书</title>
+  <desc id="heroDesc">在 WorkBuddy 里打斜杠蓝皮书问一句怎么做，它按查询路由定位到 28 章中的对应章节，读完全文再按目标、操作、验收给可执行的步骤和指令模板。</desc>
+  <rect width="1200" height="460" fill="#F4F5FF"/>
+  <g fill="#2E2EB8" opacity="0.12">
+    <circle cx="60" cy="40" r="3"/><circle cx="90" cy="40" r="3"/><circle cx="120" cy="40" r="3"/>
+    <circle cx="60" cy="70" r="3"/><circle cx="90" cy="70" r="3"/><circle cx="120" cy="70" r="3"/>
+    <circle cx="60" cy="100" r="3"/><circle cx="90" cy="100" r="3"/><circle cx="120" cy="100" r="3"/>
+  </g>
+  <rect x="0" y="392" width="1200" height="68" fill="#1B1B4D"/>
+  <text x="64" y="80" font-family="ui-monospace, Menlo, monospace" font-size="20" letter-spacing="3" fill="#2E2EB8">WORKBUDDY 实战知识库 · SKILL v1.1.2</text>
+  <text x="60" y="196" font-family="Georgia, 'Songti SC', 'SimSun', serif" font-size="104" font-weight="bold" fill="#1B1B4D">蓝皮书</text>
+  <text x="64" y="252" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="26" fill="#33335C">问一句“怎么做”，就告诉你读哪章、按哪几步做</text>
+  <g>
+    <rect x="64" y="282" width="150" height="52" rx="10" fill="#2E2EB8"/>
+    <text x="139" y="317" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="26" font-weight="bold" fill="#FFFFFF">/ 蓝皮书</text>
+    <rect x="64" y="344" width="620" height="44" rx="10" fill="#FFFFFF" stroke="#2E2EB8" stroke-width="1.5"/>
+    <text x="84" y="373" font-family="ui-monospace, Menlo, monospace" font-size="19" fill="#1B1B4D">npx skills add lls-teach/lls-workbuddy-bluebook</text>
+  </g>
+  <g>
+    <rect x="742" y="36" width="150" height="54" rx="14" fill="#FFFFFF" stroke="#2E2EB8" stroke-width="2"/>
+    <text x="817" y="72" text-anchor="middle" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24" fill="#1B1B4D">怎么做？</text>
+    <path d="M 790 90 L 806 112 L 822 90 Z" fill="#FFFFFF" stroke="#2E2EB8" stroke-width="2"/>
+    <path d="M 830 112 C 850 128 860 128 880 132" fill="none" stroke="#F08A24" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round"/>
+    <rect x="770" y="132" width="180" height="212" rx="10" fill="#FFFFFF" stroke="#2E2EB8" stroke-width="3"/>
+    <rect x="950" y="132" width="180" height="212" rx="10" fill="#FFFFFF" stroke="#2E2EB8" stroke-width="3"/>
+    <line x1="950" y1="132" x2="950" y2="344" stroke="#2E2EB8" stroke-width="3"/>
+    <g stroke="#B9B9D6" stroke-width="4" stroke-linecap="round">
+      <line x1="794" y1="176" x2="926" y2="176"/>
+      <line x1="794" y1="206" x2="926" y2="206"/>
+      <line x1="794" y1="236" x2="880" y2="236"/>
+    </g>
+    <rect x="794" y="272" width="96" height="36" rx="8" fill="#F4F5FF"/>
+    <text x="842" y="297" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="20" fill="#2E2EB8">ch05</text>
+    <g font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24" fill="#1B1B4D">
+      <text x="978" y="182">目标</text>
+      <text x="978" y="236">操作</text>
+      <text x="978" y="290">验收</text>
+    </g>
+    <g font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="bold" fill="#F08A24">
+      <text x="1052" y="182">→</text>
+      <text x="1052" y="236">→</text>
+      <text x="1052" y="290">✓</text>
+    </g>
+    <circle cx="1112" cy="330" r="26" fill="#F08A24" stroke="#FFFFFF" stroke-width="3"/>
+    <text x="1112" y="339" text-anchor="middle" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">✓</text>
+  </g>
+  <g font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="20" fill="#FFFFFF">
+    <text x="64" y="435">28 章正文</text>
+    <text x="204" y="435" fill="#8A8AB8">·</text>
+    <text x="230" y="435">2 个附录 + ch00 课外阅读</text>
+    <text x="520" y="435" fill="#8A8AB8">·</text>
+    <text x="546" y="435">6 条路由冒烟测试 R1–R6</text>
+    <text x="836" y="435" fill="#8A8AB8">·</text>
+    <text x="862" y="435">268 张章节配图</text>
+  </g>
+</svg>
